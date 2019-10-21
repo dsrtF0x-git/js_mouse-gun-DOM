@@ -1,7 +1,7 @@
 # Mouse Gun
 
 ## Task
-
+ [LINK](https://dsrtf0x-git.github.io/js_mouse-gun-DOM/) (Task 7, 8 - see in folders Task 7, Task 8)
 1. Create an empty HTML page and add the following functionality to it: when you click anywhere on the page, the browser logs to the console the X and Y coordinates of where you have clicked in the window. For example, if you click in the top left corner of the page, the output will be `0 0` (or close to it). Use the `click` event.
 2. Create an empty HTML page and add the following functionality to it: every time you move the cursor, the browser continuously logs to the console the X and Y coordinates of where the cursor is now. Use the `mousemove` event.
 3. Create a page that works like described in #2, but only after the user clicks anywhere on the page. Before this initial click the page shouldn’t output anything to the console.
